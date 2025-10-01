@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Oeuvre extends Model
 {
-     use HasFactory;
+    //  use HasFactory;
 
     protected $fillable = [
         'titre',

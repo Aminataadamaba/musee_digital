@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class OeuvreTraduction extends Model
 {
     //
-      use HasFactory;
+    //   use HasFactory;
 
     protected $table = 'oeuvre_traductions';
 

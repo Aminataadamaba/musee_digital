@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Artiste extends Model
 {
-      use HasFactory;
+    //   use HasFactory;
 
     protected $fillable = [
         'nom',

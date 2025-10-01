@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Parcours extends Model
 {
     //
-       use HasFactory;
+    //    use HasFactory;
 
     protected $table = 'parcours';
 
